@@ -2,7 +2,7 @@
 > description
 
 ## Site preveiw
-[See my site]( https://github.com/tshuliar/chemistry.git ) on GitHub
+[See my site](https://tshuliar.github.io/chemistry/) on GitHub
 
 ## technologles
 - HTMLS
